@@ -1,0 +1,16 @@
+{
+  "name": "2.3-State-and-city-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "--experimental-modules ./src/app.js",
+  "scripts": {
+    "start": "nodemon --experimental-modules ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

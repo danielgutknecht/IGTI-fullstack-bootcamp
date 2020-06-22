@@ -1,0 +1,14 @@
+2020-06-22 13:33:28 [grades-control-api] info: GET /grades - grade info returned - id: 2
+2020-06-22 13:33:49 [grades-control-api] info: GET /grades - grade info returned - id: 2
+2020-06-22 13:33:52 [grades-control-api] info: GET /grades - grade info returned - id: 3
+2020-06-22 14:13:00 [grades-control-api] info: POST /grades - new grade added - id: 49
+2020-06-22 14:13:31 [grades-control-api] info: POST /grades - new grade added - id: 50
+2020-06-22 14:13:43 [grades-control-api] info: GET /grades - grade info returned - id: 49
+2020-06-22 14:13:59 [grades-control-api] info: PUT /grades - grade updated - id: 49
+2020-06-22 14:14:07 [grades-control-api] info: PUT /grades - grade updated - id: 49
+2020-06-22 14:14:20 [grades-control-api] info: PUT /grades - grade updated - id: 49
+2020-06-22 14:14:25 [grades-control-api] info: GET /grades - grade info returned - id: 49
+2020-06-22 14:14:46 [grades-control-api] info: GET /grades - grade info returned - id: 50
+2020-06-22 14:14:54 [grades-control-api] info: DELETE /grades - grade deleted - id: 50
+2020-06-22 14:14:58 [grades-control-api] error: GET /grades - grade not found - id: 50
+2020-06-22 14:35:25 [grades-control-api] error: GET /subject/avg - grades not found - params: '{"type":"Trabalho Prático","value":338}'
