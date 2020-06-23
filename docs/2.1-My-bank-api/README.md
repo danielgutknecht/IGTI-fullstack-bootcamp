@@ -1,7 +1,7 @@
 # My Bank API
 
 ## Attributes
-
+Account
 id(int)
 name(string)
 balance(string)

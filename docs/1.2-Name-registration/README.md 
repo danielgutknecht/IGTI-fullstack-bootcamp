@@ -3,7 +3,7 @@
 ## Objectives
 Create an application to add, edit and remove names from a array list.
 
-##To exercise some concepts as:
+## To exercise some concepts as:
 * [HTML5](https://html.spec.whatwg.org/multipage/)
   * Basic elementes (head, body), inputs,buttons, div, link etc...
   *  Attributes (id, class, type, value) 
@@ -17,12 +17,10 @@ Create an application to add, edit and remove names from a array list.
   * Array list methods
   * Template literals
 
-###Requirements
+## Features Required
 * User write a name in text input and pressing 'enter' key to add a name to the list
 * User can click in name on the list for edit of value
 * User can click a button to remove a previously name added
-
-##Specification
 * Prevent page reload on submit
 * After the user press 'enter' key, the text input need be cleaned
 * The names on the list need be clickable

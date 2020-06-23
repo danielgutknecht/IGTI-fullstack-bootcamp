@@ -1,6 +1,6 @@
 # State And City Grid
 
-##Instal and Run
+## Instal and Run
 1. Go to project folder
 2. Run command in terminal to install packages`npm install`
 3. Run application `npm start`
@@ -8,14 +8,14 @@
 ## Objectives
 Create a Node js backend application for processing some information from states and cities files JSON.
 
-##To exercise some concepts as:
+## To exercise some concepts as:
 * Node.js and
 * Nodemon
 * JavaScript methods
-  * Read and write files
-  * Template literals
-  * Map, reduce and filter
-  * Modules (import and export files)
+* Read and write files
+* Template literals
+* Map, reduce and filter
+* Modules (import and export files)
 
 ## Features required
 * Implement a method to create a new JSON file by each state with all cities from reference.Ex. RS.json
@@ -40,7 +40,6 @@ Nome(string)
 Estado(int) foreign key from State
 
 ## Methods and functions
-
 generateFiles();
 getNumOfCities('rs');
 getTop5MostCities();
@@ -49,4 +48,3 @@ getBiggestNameOfCity();
 getShortestNameCities();
 getBiggestNameCity();
 getShortestNameCity();
-
