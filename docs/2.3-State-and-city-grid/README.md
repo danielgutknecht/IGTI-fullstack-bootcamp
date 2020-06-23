@@ -29,22 +29,24 @@ Create a Node js backend application for processing some information from states
 
 ## Attributes
 
-* **State**
-Id (int)
-Sigla (string)
-Nome (string)
+| state |
+| :--------| 
+|Id (int)
+|Sigla (string)
+|Nome (string)
 
-* **City**
-Id(int)
-Nome(string)
-Estado(int) foreign key from State
+| city |
+| :--------| 
+|Id(int)
+|Nome(string)
+|Estado(int) foreign key (id) reference state
 
 ## Methods and functions
-generateFiles();
-getNumOfCities('rs');
-getTop5MostCities();
-getTop5LessCities();
-getBiggestNameOfCity();
-getShortestNameCities();
-getBiggestNameCity();
-getShortestNameCity();
+* generateFiles();
+* getNumOfCities('rs');
+* getTop5MostCities();
+* getTop5LessCities();
+* getBiggestNameOfCity();
+* getShortestNameCities();
+* getBiggestNameCity();
+* getShortestNameCity();
