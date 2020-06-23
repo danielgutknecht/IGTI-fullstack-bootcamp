@@ -1,4 +1,4 @@
-# Bootcamp de Desenvolvedor Full-Stack
+# Bootcamp full-Stack developer
 
 ## :dart: Objetivos
 
@@ -18,12 +18,12 @@ comentários, tipos primitivos, variáveis, API’s nativas
 de servidor e web, funções, estruturas de decisão,
 estruturas de repetição, manipulação de eventos.
 
-| Projecs Development | Type Activity |  Repo Link | Test App Link |
-| :--------| ----------------| --------------- | ---------- | ----------- |
-|  1.1-Color-slider-vanilla |  Hands On | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.1-Color-slider-vanilla) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.1-Color-slider-vanilla/)
-|  1.2-Name-registration |  Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.2-Name-registration) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.2-Name-registration)
-| 1.3-Favorite-countries-picker | Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.3-Favorite-countries-picker) | [Run Application ](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.3-Favorite-countries-picker)
-| 1.4-User-seach | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.4-User-seach) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.4-User-seach)
+Projecs Development | Type Activity |  Repo Link | Test App Link |
+--------| ----------------| --------------- | ---------- | ----------- |
+1.1-Color-slider-vanilla |  Hands On | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.1-Color-slider-vanilla) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.1-Color-slider-vanilla/)
+1.2-Name-registration |  Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.2-Name-registration) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.2-Name-registration)
+1.3-Favorite-countries-picker | Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.3-Favorite-countries-picker) | [Run Application ](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.3-Favorite-countries-picker)
+1.4-User-seach | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.4-User-seach) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.4-User-seach)
 
 ## 2. Desenvolvimento de API’s
 Introdução ao desenvolvimento backend. Backend

@@ -1,3 +1,3 @@
-/docs/unit02/2.1-My-bank-api/.vscode/
-/docs/unit02/2.2-Student-grade/node_modules
-/docs/unit02/2.3-State-and-city-grid/node_modules
+.*
+node_modules/
+.node_modules/
