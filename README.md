@@ -18,12 +18,12 @@ comentários, tipos primitivos, variáveis, API’s nativas
 de servidor e web, funções, estruturas de decisão,
 estruturas de repetição, manipulação de eventos.
 
-Projecs Development | Type Activity |  Repo Link | Test App Link |
---------| ----------------| --------------- | ---------- | ----------- |
-1.1-Color-slider-vanilla |  Hands On | [Repo] (https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.1-Color-slider-vanilla) | [Run Application] (https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.1-Color-slider-vanilla/)
-1.2-Name-registration |  Guided Exercise | [Repo] (https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.2-Name-registration) | [Run Application] (https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.2-Name-registration)
-1.3-Favorite-countries-picker | Guided Exercise | [Repo] (https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.3-Favorite-countries-picker) | [Run Application ] (https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.3-Favorite-countries-picker)
-1.4-User-seach | Challenge | [Repo] (https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.4-User-seach) | [Run Application] (https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.4-User-seach)
+Projecs Development | Type Activity | Repo Link | Test App Link 
+----------------------- | --------------- | ----------- | ----------------
+1.1-Color-slider-vanilla |  Hands On | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.1-Color-slider-vanilla) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.1-Color-slider-vanilla/)
+1.2-Name-registration |  Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.2-Name-registration) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.2-Name-registration)
+1.3-Favorite-countries-picker | Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.3-Favorite-countries-picker) | [Run Application ](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.3-Favorite-countries-picker)
+1.4-User-seach | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/1.4-User-seach) | [Run Application](https://danielgutknecht.github.io/IGTI-fullstack-bootcamp/1.4-User-seach)
 
 ## 2. Desenvolvimento de API’s
 Introdução ao desenvolvimento backend. Backend
@@ -36,11 +36,11 @@ utilizando as principais operações: GET, POST, PUT,
 e DELETE. Desenvolvimento das operações CRUD.
 Persistência de Dados em Arquivos.
 
-| Projecs Development | Type Activity |  Repo Link | 
-| :--------| ----------------| --------------- | ---------- | 
-|  2.1-My-bank-api | Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/2.1-My-bank-api) 
-|  2.2-Student-grade | Hands On | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/2.2-Student-grade)
-|  2.3-State-and-city-grid | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/2.3-State-and-city-grid) 
+| Projecs Development | Type Activity |  Repo Link 
+ :----------------------- | ---------------- | ------------ 
+2.1-My-bank-api | Guided Exercise | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/2.1-My-bank-api) 
+2.2-Student-grade | Hands On | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/2.2-Student-grade)
+2.3-State-and-city-grid | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/2.3-State-and-city-grid) 
 
 ## 3. FrontEnd com React
 Instalação e configuração do React. Criação de projetos
