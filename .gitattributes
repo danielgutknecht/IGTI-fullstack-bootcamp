@@ -1,1 +1,2 @@
-docs/* linguist-generated
+docs/* linguist-vendored=true
+       docs/**linguist-documentation=false
