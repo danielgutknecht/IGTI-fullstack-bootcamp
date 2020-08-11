@@ -2,7 +2,7 @@
 
 ## :dart: Objetivos
 
-Conhecer técnicas de construção de aplicações, passando por todas as suas camadas lógicas, do backend ao frontend, com persistência de dados NoSQL, controle de versionamentode código com Git e implantação em nuvem - habilitando-se para atuar profissionalmente na área.
+Conhecer técnicas de construção de aplicações, passando por todas as suas camadas lógicas, do backend ao frontend, com persistência de dados NoSQL, controle de versionamentode código com Git e implantação em nuvem, habilitando-se para atuar profissionalmente na área.
 
 ## :book: Módulos
 
@@ -87,7 +87,8 @@ e DELETE. Desenvolvimento das operações CRUD.
 
 | Projecs Development | Type Activity |  Repo Link 
 :-------------------- | ------------- | ------------ 
-4.1-my-bank-api | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/4.1-my-bank-api)
+4.1-my-bank-api | Hands On | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/4.1-my-bank-api)
+4.2-grades-api | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/4.2-grades-api)
 
 ## 5. Desafio Final</b></h3>
 Entrega da aplicação final utilizando todos os conceitos aprendidos durante o bootcamp
