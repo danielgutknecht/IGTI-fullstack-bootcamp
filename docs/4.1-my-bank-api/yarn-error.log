@@ -1,0 +1,49 @@
+Arguments: 
+  /home/daniel/.nvm/versions/node/v12.18.3/bin/node /usr/share/yarn/bin/yarn.js
+
+PATH: 
+  /home/daniel/.nvm/versions/node/v12.18.3/bin:/home/daniel/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/daniel/.fzf/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/daniel/Documentos/IGTI-fullstack-Bootcamp/03-GitHub-Projects/docs/4.1-my-bank-api/package.json: Unexpected token } in JSON at position 330
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:310:30)
+      at /usr/share/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "4.1-my-bank-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "node --experimental-modules ./src/App.js",
+      "dev": "nodemon --experimental-modules ./src/App.js",
+      "debug": "nodemon --inspect-brk ./src/App.js"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.4",
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.9.27"
+    },
+    "type": "module"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
