@@ -85,6 +85,10 @@ e DELETE. Desenvolvimento das operações CRUD.
 - Instalação do Heroku CLI. 
 - Como implantar aplicações no Heroku.
 
+| Projecs Development | Type Activity |  Repo Link 
+:-------------------- | ------------- | ------------ 
+4.1-my-bank-api | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/4.1-my-bank-api)
+
 ## 5. Desafio Final</b></h3>
 Entrega da aplicação final utilizando todos os conceitos aprendidos durante o bootcamp
 
@@ -149,10 +153,6 @@ Entrega da aplicação final utilizando todos os conceitos aprendidos durante o 
 - [x] Aula 09 - Git - Parte 1 :heavy_check_mark: 
 - [x] Aula 10 - Git - Parte 2 :heavy_check_mark:
 - [x] Aula 11 - Heroku :heavy_check_mark:
-
-| Projecs Development | Type Activity |  Repo Link 
-:-------------------- | ------------- | ------------ 
-4.1-my-bank-api | Challenge | [Repo](https://github.com/danielgutknecht/IGTI-fullstack-bootcamp/tree/master/docs/4.1-my-bank-api)
 
 ## :triangular_flag_on_post: Desafios
 
